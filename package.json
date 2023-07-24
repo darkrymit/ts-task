@@ -1,0 +1,14 @@
+{
+  "name": "ts-task",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "devDependencies": {
+    "prettier": "3.0.0",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "tslib": "^2.6.1"
+  }
+}
